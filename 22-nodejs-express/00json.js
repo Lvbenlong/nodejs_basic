@@ -6,7 +6,6 @@ app.get('/api/data', (req, res) => {
   res.json({"name": "Johnny"})
 })
 
-app.get('/', )
 
 
 app.listen(3000)
